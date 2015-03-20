@@ -2,9 +2,9 @@
 
 ## Quick Start
 
-Firstly you need to make sure all the dependencies are satisfied. The Linux dependencies are found on the `linux-requirements.txt` file in the repository root.
+Firstly you need to make sure all the dependencies are satisfied. The Linux dependencies are found on the `linux-requirements.txt` file in the repository's root.
 
-Dependencies solved, you can execute the REPD daemon process with the following command (It is recommended to run the programs with python version 3.4):
+With the dependencies solved, you can execute the REPD daemon process with the following command (It is recommended to run the programs with python version 3.4):
 ```
 python3 repdd.py
 ```
