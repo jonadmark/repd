@@ -9,7 +9,7 @@ def main():
     # load database settings and create handler
     with open('settings/database.cfg', 'r') as f:
         s = json.load(f)
-        database = Database(s['filename'])
+        database = Database(s['filename'], s['timetoexpire'])
     
     # create MetricManager
     metric_manager = MetricManager(database)
