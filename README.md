@@ -22,7 +22,7 @@ In this example the period starts at timestamp 123 and ends at 456.
 
 ## Further reading
 
-Find more about on (PT-BR): http://pergamumweb.udesc.br/dados-bu/000001/000001e9.pdf
+Find more about on (PT-BR): http://sistemabu.udesc.br/pergamumweb/vinculos/000001/000001e9.pdf
 
 
 LICENSE: The MIT License
